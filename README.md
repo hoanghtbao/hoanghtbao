@@ -11,7 +11,7 @@
  
   <br>
   
-  <p>I am an Information Technology student at DongA University with a strong passion for web development and system administration. I am constantly learning and continuously expanding my skill set across a range of technologies and tools.</p>
+  <p>I am an Information Technology student at DongA University with a strong passion for web development and system administration, AI. I am constantly learning and continuously expanding my skill set across a range of technologies and tools.</p>
 
 ###  Web Development 
   <img src="https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&labelColor=0D1117">
